@@ -39,7 +39,7 @@ class _MainScreenState extends State<MainScreen> {
   Future<String> _getResponseFromApi(String message) async {
     try {
       final response = await http.post(
-        Uri.parse('http://10.0.2.2:5000/perguntar'), // URL do emulador para localhost
+        Uri.parse('http://10.0.2.2:5000/pergunta'), // URL do emulador para localhost
         headers: {
           'Content-Type': 'application/json',
         },

@@ -1,0 +1,2 @@
+/home/matheus/StudioProjects/sophos-kodiak/android/app/.cxx/Debug/d1a53731/x86_64/CMakeFiles/edit_cache.dir
+/home/matheus/StudioProjects/sophos-kodiak/android/app/.cxx/Debug/d1a53731/x86_64/CMakeFiles/rebuild_cache.dir
